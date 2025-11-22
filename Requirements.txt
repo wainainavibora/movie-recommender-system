@@ -1,0 +1,12 @@
+streamlit
+
+#local packages
+numpy
+pandas
+scikit-learn
+nltk
+matplotlib
+seaborn
+jupyter
+ipykernel
+
